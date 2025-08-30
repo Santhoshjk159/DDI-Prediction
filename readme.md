@@ -58,6 +58,5 @@ A sample/synthetic dataset is included for reproducibility.
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/<your-username>/ddi-ml-framework.git
-cd ddi-ml-framework
+git clone https://github.com/Santhoshjk159/DDI-Prediction
 pip install -r requirements.txt
